@@ -144,7 +144,7 @@ nav li {
 }
 nav li a {
     text-decoration: none;
-    color: var(--black);
+    color: var(--dark-gray);
 }
 nav li a:hover {
     color: var(--white);
